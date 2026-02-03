@@ -12,6 +12,16 @@ Este projeto foi criado como parte de uma imersão prática em **análise de dad
 
 **Importante**: Este é um projeto inicial, desenvolvido em contexto educacional, com foco na consolidação de fundamentos de análise de dados e visualização.
 
+## 🔗 Dashboard Online
+👉 [Acesse o dashboard interativo](https://data-analysis-dashboard-app.streamlit.app/)
+
+## 🖼️ Preview do Dashboard
+![Preview do Dashboard]
+<img width="1366" height="572" alt="Preview do Dashboard de Salários em Dados" src="https://github.com/user-attachments/assets/a3888996-1ab9-4087-b3a6-b3a9a00bac60" />
+<img width="1297" height="592" alt="image" src="https://github.com/user-attachments/assets/86dd67dc-c136-4c8f-ab9e-c750095007d6" />
+<img width="1263" height="396" alt="image" src="https://github.com/user-attachments/assets/23039327-a46d-4fea-a3d5-75562c5771e1" />
+<img width="1321" height="543" alt="image" src="https://github.com/user-attachments/assets/e403ce20-6ee5-437e-9729-493cf945783c" />
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **Python 3.12.3**
